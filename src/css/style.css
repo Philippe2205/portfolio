@@ -45,8 +45,8 @@
   flex-direction: column;
   gap: 20px;
   top: 25px;
-  right: -250px;
-  transition: right 0.3s ease-in-out;
+  right: -300px;
+  transition: right 0.4s ease-in-out;
   background-color: black;
   padding: 25px 50px 25px 25px;
 }
@@ -91,6 +91,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: center;
   font-family: "Montserrat", sans-serif;
 }
 

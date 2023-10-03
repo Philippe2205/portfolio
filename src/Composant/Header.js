@@ -22,7 +22,7 @@ function Header() {
   return (
     <header className="nav">
       <div className="profile">
-        <img src={imgProfil} alt="Photo de profile" />
+        {/* <img src={imgProfil} alt="Photo de profile" /> */}
         <p>Philippe Matias</p>
       </div>
       <div className="menu">
